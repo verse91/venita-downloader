@@ -1,2 +1,3 @@
-# venita-downloader
-Extension to download clips from specific time range
+# WXT + React
+
+This template should help get you started developing with React in WXT.
